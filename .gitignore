@@ -1,4 +1,7 @@
 venv
 *.pyc
 *.sqlite3
-target2
+target
+.coverage
+coverage.xml
+unittests.xml
